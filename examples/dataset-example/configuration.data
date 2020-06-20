@@ -1,0 +1,5 @@
+classes = 2
+train = /home/dataset-example/train.txt
+valid = /home/dataset-example/test.txt
+names = /home/dataset-example/classes.names
+backup = /home/dataset-example/backup/
